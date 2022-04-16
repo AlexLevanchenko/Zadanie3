@@ -15,7 +15,7 @@ public class CreditCard {
                 System.out.println(owner + " пошел ты на х#й вместе со своим русским кораблем!!");
                 break;
             default:
-                System.out.println("Неизвестный тип карты " + type);
+                System.out.println("Неизвестный тип карты: " + type);
         }
     }
 
